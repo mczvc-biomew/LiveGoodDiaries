@@ -1,4 +1,5 @@
 # LiveGood Diaries with the TeamRGD and TeamJohn
+## Welcome to LiveGood!
 ## Team Leaders
 * ### [TeamRGD - RobinHood](https://www.livegoodtour.com/Robinhood01)
 ## Team John
