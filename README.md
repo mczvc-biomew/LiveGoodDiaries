@@ -1,5 +1,8 @@
 # LiveGood Diaries with the TeamRGD and TeamJohn
 ## Welcome to LiveGood!
+[![LiveGood SuperReds](https://github.com/mczvc-biomew/LiveGoodDiaries/assets/98096247/ef7cdf60-b2c9-49b9-ae3f-8192d00a8476)](https://www.LiveGoodSuperReds.com/braveheartmom01)
+[![Shop LiveGood](https://github.com/mczvc-biomew/LiveGoodDiaries/assets/98096247/734ff2e8-7ac3-4ae2-9044-c2e04bee8600)](https://www.ShopLiveGood.com/braveheartmom01)
+
 ## Team Leaders
 * ### [TeamRGD - `RobinHood`](https://www.livegoodtour.com/Robinhood01)
 ## Team John
